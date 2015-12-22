@@ -1,0 +1,28 @@
+name: Freestyle A/V
+favicon: null
+layout_spectrum: 0.22904541715979576
+typography_spectrum: 0.2527574838604778
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.5021570196840912
+  lightness: 0.8846362601034343
+  saturation: 0.952863821061328
+  rhythmicContrast: 0.6809518663212657
+purpose: []
