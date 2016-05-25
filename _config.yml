@@ -1,28 +1,40 @@
-name: Freestyle A/V
-favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.59027
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.8212479
+  brandStrength: 0.5
+  lightness: 0.7563238
   brandColors:
     - '#ffffff'
     - '#181818'
     - '#695e4a'
     - '#ab2433'
     - '#76a89d'
-  brandStrength: 0.5
-  lightness: 0.8846362601034343
-  saturation: 0.75
-  rhythmicContrast: 0.6809518663212657
-purpose: []
+  rhythmicContrast: 0.7141653
+typography_spectrum: 0.59027
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Freestyle A/V
