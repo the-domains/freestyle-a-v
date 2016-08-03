@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Freestyle A/V]]></title>
         <description><![CDATA[Freestyle A/V]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/freestyle-a-v/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Dec 2015 04:01:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 03 Aug 2016 23:18:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/freestyle-a-v/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>I started Freestyle Home Systems, Ltd. in 2001 as a custom residential electronics integration company. 14 years later, after delving into the world of commercial solutions, we became Freestyle A/V to offer the best of both worlds.</p>]]></description>
-            <link>undefined925d9fc7-35ba-4adc-ac31-185433acbe2b/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b28652f-a450-410f-bc8b-3b744c34c6b1.jpg">]]></description>
+            <link>https://thegrid.ai/freestyle-a-v/925d9fc7-35ba-4adc-ac31-185433acbe2b/index.html</link>
             <guid isPermaLink="false">925d9fc7-35ba-4adc-ac31-185433acbe2b</guid>
-            <pubDate>Tue, 22 Dec 2015 04:00:41 GMT</pubDate>
+            <pubDate>Wed, 03 Aug 2016 23:18:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
